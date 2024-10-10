@@ -187,7 +187,41 @@ a:focus {
     color: #404bbf;
 }
 
-.sec2-h {
+.section1 {
+    background-color: #2e2f42;
+}
+
+.section1h {
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #ffffff;
+}
+
+.button {
+    background-color: #4d5ae5;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+}
+
+button {
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #404bbf;
+}
+
+button:focus {
+    background-color: #404bbf;
+}
+
+.section2h {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -195,7 +229,12 @@ a:focus {
     color: #2e2f42;
 }
 
-.sec2-p {
+.section2p {
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
+
+footer {
+    background-color: #2e2f42;
+}
+
