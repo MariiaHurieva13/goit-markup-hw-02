@@ -162,6 +162,10 @@ body {
     color: #2e2f42;
 }
 
+.logoasss {
+    color: #f4f4fd;
+}
+
 .element {
     font-weight: 500;
     line-height: 1.5;
@@ -187,11 +191,11 @@ a:focus {
     color: #404bbf;
 }
 
-.section1 {
+.sec {
     background-color: #2e2f42;
 }
 
-.section1h {
+.sech {
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
@@ -221,7 +225,7 @@ button:focus {
     background-color: #404bbf;
 }
 
-.section2h {
+.secth {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -229,12 +233,30 @@ button:focus {
     color: #2e2f42;
 }
 
-.section2p {
+.sectp {
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
 
-footer {
+.secti {
+    background-color: #f4f4fd;
+}
+
+.heading {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+
+.footer {
     background-color: #2e2f42;
 }
 
+.elem {
+    line-height: 1.5;
+    color: #f4f4fd;
+    letter-spacing: 0.02em;
+}
