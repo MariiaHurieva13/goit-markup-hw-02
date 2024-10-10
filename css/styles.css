@@ -149,7 +149,7 @@ body {
 }
 
 .logo {
-    font-family: "Raleway" sans-serif;
+    font-family: 'Raleway' sans-serif;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
@@ -162,11 +162,18 @@ body {
     color: #2e2f42;
 }
 
-.adress {
+.el1 {
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.address {
     font-style: normal;
 }
 
-.mail {
+.add {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
@@ -176,6 +183,6 @@ a:hover {
     color: #404bbf;
 }
 
-a:active {
+a:visited {
     color: #404bbf;
 }
